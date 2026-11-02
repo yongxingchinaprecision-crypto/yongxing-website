@@ -1,0 +1,39 @@
+backend:
+  name: turbo-github
+  turbo_site_id: 5f6b0c06-68f9-4274-a080-9158482a6f58
+  branch: feature/articles-cms
+
+publish_mode: editorial_workflow
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+site_url: https://yongxingprecision.org
+display_url: https://yongxingprecision.org
+logo_url: https://yongxingprecision.org/assets/hero.webp
+
+locale: en
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: "articles"
+    label: "Articles & Insights"
+    label_singular: "Article"
+    folder: "content/articles"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    summary: "{{title}} — {{date}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "URL slug", name: "slug", widget: "string", hint: "Short English URL, use lowercase words separated by hyphens." }
+      - { label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Author", name: "author", widget: "string", default: "Yongxing Precision" }
+      - { label: "Summary", name: "summary", widget: "text", hint: "A short introduction shown on the article listing page." }
+      - { label: "Cover image", name: "cover", widget: "image", required: false }
+      - { label: "Cover image caption", name: "cover_caption", widget: "string", required: false }
+      - { label: "SEO description", name: "seo_description", widget: "string", required: false }
+      - { label: "Article body", name: "body", widget: "markdown" }
