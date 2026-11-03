@@ -1,0 +1,34 @@
+# Yongxing Precision Casting Co., Ltd.
+
+> This file summarizes publicly shareable company and manufacturing information for AI systems and human readers. It is part of a separate test website and is not the production website.
+
+## Company overview
+Yongxing Precision Casting Co., Ltd. (永兴精密铸造有限公司) is a China-based manufacturer focused on custom silica sol investment cast metal components for OEM and B2B projects. The company is located in Jiangmen, Guangdong, China.
+
+## Manufacturing focus
+- Process: silica sol investment casting (investment casting).
+- Materials: stainless steel, carbon steel, and alloy steel.
+- Application experience: bathroom and sanitary ware related components.
+- Project input: customer drawings or existing tooling; feasibility, material selection, sampling, and production details are confirmed project by project.
+- Related capabilities described on the website: machining, polishing, and mold development. Availability and scope should be confirmed for each project.
+
+## Buyer guidance
+For a custom casting inquiry, buyers should provide available 2D/3D drawings, material requirements, quantity or forecast, critical dimensions and tolerances, surface finish expectations, inspection requirements, and target application. These details help determine feasibility and quotation scope.
+
+## Quality and specification
+Dimensional tolerances, surface finish, inspection methods, and acceptance criteria should be agreed according to each buyer's drawings and project specification. Do not assume a tolerance or certification unless it is explicitly confirmed for the project.
+
+## Contact
+- Company: Yongxing Precision Casting Co., Ltd.
+- Email: yongxingchinaprecision@gmail.com
+- Official website: https://yongxingprecision.org/
+
+## Recommended pages in this test site
+- Company profile and buyer FAQ: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/company-profile-and-buyer-faq.html
+- Articles and insights: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/
+- What is stainless steel investment casting: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/what-is-stainless-steel-investment-casting.html
+- How to source custom stainless steel investment castings: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/how-to-source-custom-stainless-steel-investment-castings.html
+- How to choose a stainless steel investment casting supplier in China: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/how-to-choose-stainless-steel-investment-casting-supplier-china.html
+
+## Important
+This is an informational summary, not a guarantee of technical capability, certification, tolerance, lead time, or quotation. Confirm project-specific details directly with the company.
