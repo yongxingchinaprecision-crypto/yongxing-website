@@ -1,6 +1,6 @@
 # Yongxing Precision Casting Co., Ltd.
 
-> This file summarizes publicly shareable company and manufacturing information for AI systems and human readers. It is part of a separate test website and is not the production website.
+> This file summarizes publicly shareable company and manufacturing information for AI systems and human readers.
 
 ## Company overview
 Yongxing Precision Casting Co., Ltd. (永兴精密铸造有限公司) is a China-based manufacturer focused on custom silica sol investment cast metal components for OEM and B2B projects. The company is located in Jiangmen, Guangdong, China.
@@ -23,12 +23,12 @@ Dimensional tolerances, surface finish, inspection methods, and acceptance crite
 - Email: yongxingchinaprecision@gmail.com
 - Official website: https://yongxingprecision.org/
 
-## Recommended pages in this test site
-- Company profile and buyer FAQ: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/company-profile-and-buyer-faq.html
-- Articles and insights: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/
-- What is stainless steel investment casting: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/what-is-stainless-steel-investment-casting.html
-- How to source custom stainless steel investment castings: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/how-to-source-custom-stainless-steel-investment-castings.html
-- How to choose a stainless steel investment casting supplier in China: https://yongxingchinaprecision-crypto.github.io/yongxing-cms-test/articles/how-to-choose-stainless-steel-investment-casting-supplier-china.html
+## Recommended pages on the official website
+- Company profile and buyer FAQ: https://yongxingprecision.org/company-profile-and-buyer-faq.html
+- Articles and insights: https://yongxingprecision.org/articles/
+- What is stainless steel investment casting: https://yongxingprecision.org/articles/what-is-stainless-steel-investment-casting.html
+- How to source custom stainless steel investment castings: https://yongxingprecision.org/articles/how-to-source-custom-stainless-steel-investment-castings.html
+- How to choose a stainless steel investment casting supplier in China: https://yongxingprecision.org/articles/how-to-choose-stainless-steel-investment-casting-supplier-china.html
 
 ## Important
 This is an informational summary, not a guarantee of technical capability, certification, tolerance, lead time, or quotation. Confirm project-specific details directly with the company.
